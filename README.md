@@ -1,2 +1,2 @@
-# my-website
+# RexSite
 My test webiste
